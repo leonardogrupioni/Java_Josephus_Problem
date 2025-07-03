@@ -2,15 +2,15 @@
 
 This project is a graphical and algorithmic simulation of the classical **Josephus Problem**, developed in **Java** using the **BlueJ IDE**. It models the elimination sequence and survivor identification for varying group sizes and step values.
 
-<p align="center">
-  <img src="docs/img/josephus_example.png" width="60%" alt="Josephus problem diagram">
-</p>
-
 ---
 
 ## 🧠 What is the Josephus Problem?
 
 The Josephus problem is a theoretical puzzle related to a group of people standing in a circle and eliminating every *k-th* person until only one remains. The task is to determine the safe position to avoid elimination.
+
+<p align="center">
+  <img src="josephus_img.png" width="40%" alt="Josephus problem diagram">
+</p>
 
 Mathematically, it is solved using recurrence:
 ```
