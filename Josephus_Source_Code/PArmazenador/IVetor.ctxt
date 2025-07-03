@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=IVetor
+comment0.text=\r\n\ IArmazenador\ interface\ para\ armazenadores.\r\n\ \r\n\ @author\ Julio\ Arakaki\r\n\ @co-author\ Igor\ Matos,\ Jo\u00E3o\ Pedro\ Figols,\ Julia\ Schmidt,\ Leonardo\ Grupioni\ \r\n\ @version\ 13/06/2023\r\n
+comment1.params=a
+comment1.target=void\ adicionar(java.lang.Object)
+comment2.params=i
+comment2.target=java.lang.Object\ remover(int)
+comment3.params=
+comment3.target=boolean\ estaVazia()
+comment4.params=i
+comment4.target=java.lang.Object\ buscar(int)
+comment5.params=
+comment5.target=int\ getQtd()
+numComments=6

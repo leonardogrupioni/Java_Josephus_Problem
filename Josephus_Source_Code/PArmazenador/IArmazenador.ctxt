@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=IArmazenador
+comment0.text=\r\n\ IArmazenador\ interface\ para\ armazenadores.\r\n\ \r\n\ @author\ Julio\ Arakaki\r\n\ @co-author\ Igor\ Matos,\ Jo\u00E3o\ Pedro\ Figols,\ Julia\ Schmidt,\ Leonardo\ Grupioni\ \r\n\ @version\ 13/06/2023\r\n
+comment1.params=
+comment1.target=boolean\ estaVazia()
+comment10.params=
+comment10.target=java.lang.String\ toStringDoFim()
+comment2.params=novo
+comment2.target=void\ inserirInicio(java.lang.Object)
+comment3.params=novo
+comment3.target=void\ inserirFim(java.lang.Object)
+comment4.params=chave\ novo
+comment4.target=boolean\ inserirApos(long,\ java.lang.Object)
+comment5.params=
+comment5.target=java.lang.Object\ removerInicio()
+comment6.params=
+comment6.target=java.lang.Object\ removerFim()
+comment7.params=chave
+comment7.target=java.lang.Object\ remover(long)
+comment8.params=i
+comment8.target=java.lang.Object\ buscar(int)
+comment9.params=
+comment9.target=int\ getQtdNos()
+numComments=11

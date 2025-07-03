@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Aplicacao
+comment0.text=\r\n\ A\ aplica\u00E7\u00E3o\ conecta\ a\ aplica\u00E7\u00E3o\ grafica\ com\ a\ execucao\ da\ simulacao.\r\n\ \r\n\ @author\ Igor\ Matos,\ Jo\u00E3o\ Pedro\ Figols,\ Julia\ Schmidt,\ Leonardo\ Grupioni\ \r\n\ @version\ 13/06/2023\r\n
+comment1.params=qtd\ m
+comment1.target=void\ simular(int,\ int)
+comment1.text=\r\n\ M\u00E9todo\ simular\r\n\r\n\ @int\ qtd\ -\ par\u00E2metro\ para\ quantidade\ de\ objetos\r\n\ @int\ pas\ -\ par\u00E2metro\ para\ contador\ de\ passos\r\n
+comment2.params=
+comment2.target=PArmazenador.IVetor\ getVetor()
+comment2.text=\r\n\ M\u00E9todo\ getVetor\r\n\r\n\ @retorna\ um\ VetDin\ que\ contem\ a\ ordem\r\n
+numComments=3

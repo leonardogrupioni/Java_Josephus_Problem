@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Individuo
+comment0.text=\r\n\ A\ classe\ individuo\ cria\ um\ individuo\ que\ contem\ um\ boolean\ status\ que\ informa\ se\ o\ mesmo\ esta\ vivo\ ou\ morto;\r\n\ \r\n\ @author\ Igor\ Matos,\ Jo\u00E3o\ Pedro\ Figols,\ Julia\ Schmidt,\ Leonardo\ Grupioni\ \r\n\ @version\ 13/06/2023\r\n
+comment1.params=status\ pos
+comment1.target=Individuo(boolean,\ int)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Pessoa\r\n
+comment2.params=status
+comment2.target=void\ setStatus(boolean)
+comment3.params=
+comment3.target=boolean\ getStatus()
+numComments=4

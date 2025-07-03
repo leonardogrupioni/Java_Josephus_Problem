@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Regras
+comment0.text=\r\n\ As\ regras\ executam\ a\ simula\u00E7\u00E3o\ de\ acordo\ com\ os\ parametro\ passados\ de\ qtd\ e\ passos\r\n\ \r\n\ @author\ Igor\ Matos,\ Jo\u00E3o\ Pedro\ Figols,\ Julia\ Schmidt,\ Leonardo\ Grupioni\ \r\n\ @version\ 13/06/2023\r\n
+comment1.params=qtd\ m
+comment1.target=void\ simular(int,\ int)
+comment1.text=\r\n\ M\u00E9todo\ simular\r\n\r\n\ @int\ qtd\ -\ par\u00E2metro\ para\ quantidade\ de\ individuos\r\n\ @int\ m\ -\ par\u00E2metro\ para\ contador\ de\ passos\r\n
+comment2.params=qtd
+comment2.target=void\ criarIndividuos(int)
+comment2.text=\r\n\ M\u00E9todo\ criarIndividuos\r\n\r\n\ @int\ qtd\ -\ par\u00E2metro\ para\ quantidade\ de\ individuos\r\n
+comment3.params=qtd\ m
+comment3.target=void\ matarIndividuos(int,\ int)
+comment3.text=\r\n\ M\u00E9todo\ matarIndividuos\r\n\r\n\ @int\ qtd\ -\ par\u00E2metro\ para\ quantidade\ de\ individuos\r\n\ @int\ m\ -\ par\u00E2metro\ para\ contador\ de\ passos\r\n
+comment4.params=qtd
+comment4.target=void\ ultimoIndividuo(int)
+comment4.text=\r\n\ M\u00E9todo\ ultimoIndividuo\r\n\r\n\ @int\ qtd\ -\ par\u00E2metro\ para\ quantidade\ de\ individuos\r\n
+comment5.params=
+comment5.target=void\ inicializarArray()
+comment5.text=\r\n\ M\u00E9todo\ inicializarArray\r\n\r\n
+numComments=6
